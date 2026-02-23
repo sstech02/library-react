@@ -46,7 +46,10 @@ a:hover {
   text-decoration: underline;
 }
 
-
+.personal_logo {
+  height: 50px;
+  width: 50px;
+}
 
 ul {
   display: flex;
